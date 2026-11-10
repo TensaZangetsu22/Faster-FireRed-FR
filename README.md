@@ -1,4 +1,4 @@
-# Pokémon Rouge Feu Ironmon Kaizo — Patch FR 1.3
+# Pokémon Rouge Feu Ironmon Kaizo — Patch FR 1.3.1
 
 > 🇬🇧 [Read this README in English](README_EN.md)
 
@@ -66,6 +66,7 @@ https://github.com/DrMaple/Faster-FireRed
 
 Cette version ajoute notamment :
 
+- correction du **PNJ qui évalue le bonheur des Pokémon** dans la dernière version du patch (**1.3.1**) ;
 - adaptation du patch Faster FireRed à une **ROM française de Pokémon Rouge Feu** ;
 - traduction / adaptation en français des textes et dialogues concernés par le patch ;
 - validation du déplacement de l'objet du PC vers le laboratoire du Professeur Chen sur la ROM FR ;
@@ -88,7 +89,7 @@ L'objectif général est de conserver le gameplay et l'esprit du patch US tout e
 Vous avez besoin de :
 
 1. votre propre ROM française **vanilla** de Pokémon Version Rouge Feu ;
-2. le fichier `.ips` fourni avec cette release ;
+2. le fichier `Faster.FireRed.1.3.1.FR.Avec.Croix.PNJ.Bonheur.Corrige.ips` fourni avec cette release ;
 3. un outil capable d'appliquer un patch IPS.
 
 **Conservez toujours une copie intacte de votre ROM originale.**

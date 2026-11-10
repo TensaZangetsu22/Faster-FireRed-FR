@@ -1,4 +1,4 @@
-# Pokémon FireRed Ironmon Kaizo — French Patch 1.3
+# Pokémon FireRed Ironmon Kaizo — French Patch 1.3.1
 
 > 🇫🇷 [Lire ce README en français](README.md)
 
@@ -66,6 +66,7 @@ https://github.com/DrMaple/Faster-FireRed
 
 This version additionally includes:
 
+- a fix for the **NPC who evaluates Pokémon happiness** in the latest patch version (**1.3.1**);
 - adaptation of Faster FireRed to a **French Pokémon FireRed ROM**;
 - French localization / adaptation of patch-specific text and dialogue;
 - validated relocation of the PC item to Professor Oak's lab on the French ROM;
@@ -88,7 +89,7 @@ The overall goal is to preserve the gameplay and intent of the original US patch
 You need:
 
 1. your own **French vanilla Pokémon FireRed ROM**;
-2. the `.ips` file included with this release;
+2. the `Faster.FireRed.1.3.1.FR.Avec.Croix.PNJ.Bonheur.Corrige.ips` file included with this release;
 3. an IPS-compatible patching tool.
 
 **Always keep an untouched backup of your original ROM.**
